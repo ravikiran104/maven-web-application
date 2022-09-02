@@ -96,14 +96,14 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>ravi kiran Releases Nexus Repository</name>
+	      <id>releases</id>
+	      <name>Releases</name>
 	      <url>http://3.109.49.146:8081/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>ravi kiran Snapshot Nexus Repository </name>
+	      <id>snapshots</id>
+	      <name>Snapshots</name>
 	      <url>http://3.109.49.146:8081/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
